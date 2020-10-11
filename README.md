@@ -44,4 +44,13 @@ Se integrara el cronometro y el Contador en una sola ventana, Creando un panel N
 
 Definicion de Tiempos y Costos
 
-El cronometro se puede Realizar en 3 Fases; La primera constara de la realizcion de los diagramas
+El cronometro se puede Realizar en 3 Fases; La primera constara de la realizcion de los diagramas que nos permitiran relacionar la interaccion del usuario con el programa, los tiempos en que este se ejecutara, y la forma en que deberia funcionar.
+Para ello dedicaremos un dia.
+
+Seguido de esto, se realizara la primer codificacion del Cronometro, hasta el punto neto del funcionamiento correcto de los tiempo, la detencion, reinicion y guardado de los tiempos, Para esto se requiere de uno a 2 dias de codificacion.
+
+Se tiene una fase intermedia en la que se mostrara el proceso que se lleva, y se analizaran los requerimientos para su correcta implementacion.
+
+La Tercera fase consta de la integracion del panel numerico y modificacion del codigo para el uso del temporizador.
+
+Estos 3 procesos pueden saltar hacia atras, si es necesario. Para este proyecto se utiliza el trabajo de 3 Ingenieros de Sistemas, a los cuales se les pagara por dia de trabajo, basados en un salario de $3.000.000 Mensuales, lo que quiere decir que se les pagara $125.000 por dia De trabajo, EL costo del proyecto se escatimara Basados en el tiempo Requerido, Como se estiman 3 o 5 dias de produccion del codigo y Proyecto Terminado, bajo los requerimientos estipulados, Se Cobraran $3.000.000 Por costos operativos, y pagos a los ingenieros, ademas del mantemientos y demas solicitudes por parte del cliente.
