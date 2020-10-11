@@ -7,6 +7,8 @@
 - Christian Caro -20181020027
 - Neider Puentes - 20181020017
 - Santiago Ríos -20162021307
+
+
 #Solicitud de Proyecto
 
 Se requiere la realización de un Cronometro que permita contar horas, minutos y Segundos, controlado mediante Botones, Como lo son, "Iniciar", "Parar", "Guardar Tiempo", "Reiniciar", deberá conservar por lo menos 10 tiempos en memoria, y se debe poder reestablecer. También el Cronometro servirá como contador, en el que se establecerá un tiempo, y el cronometro hará cuenta a cero, y notificara que ha acabado el tiempo.
