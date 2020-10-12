@@ -15,16 +15,17 @@ Se requiere la realización de un Cronometro que permita contar horas, minutos y
 
 Requerimientos Funcionales:
 
-Interfaz Gráfica que permita interactuar con el programa
-Cronometro que muestre el tiempo que se lleva en Horas minutos y Segundos HH:MM:SS
-Contador con teclado para ingresar tiempo de conteo
-Posibilidad de Almacenar en Memoria por lo menos 10 datos de Cronometro (Corredores)
+- Interfaz Gráfica que permita interactuar con el programa
+- Cronometro que muestre el tiempo que se lleva en Horas minutos y Segundos HH:MM:SS
+- Contador con teclado para ingresar tiempo de conteo
+- Posibilidad de Almacenar en Memoria por lo menos 10 datos de Cronometro (Corredores)
+
 Requerimientos No Funcionales
 
-Muestreo en Tiempo realización
-Panel agradable con el Usuario
-Persistencia en los tiempos que se guardan
-Análisis de Creación del Proyecto
+- Muestreo en Tiempo realización
+- Panel agradable con el Usuario
+- Persistencia en los tiempos que se guardan
+- Análisis de Creación del Proyecto
 
 Se crearán los diagramas necesarios para determinar el control y funcionamiento del proyecto, esto con el fin de determinar si los requerimientos mencionados son totalmente adecuados, o si se debe realizar algún otro proceso con el cliente para el desarrollo del proyecto. al mismo tiempo se iniciará la codificación de lo básico del proyecto.
 
