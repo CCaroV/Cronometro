@@ -44,4 +44,4 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
  Se necesitará un total de tres estudiantes de ingeniería de sistemas, a los cuales se les pagara en total una suma de $300.000 COP, lo que quiere decir que les corresponde $100.000 COP a cada uno.
  
  # Diagrama UML
-  ![alt text](https://raw.githubusercontent.com/CCaroV/Cronometro/master/UML.png) 
+  ![imagen](https://github.com/CCaroV/Cronometro/blob/master/UML.png) 
