@@ -42,3 +42,6 @@ Para terminar esta primera fase, se concluirá con una primera codificación del
 3. En la Tercera fase mediante pruebas unitaria se comprobará el correcto funcionamiento de la aplicación.
 Cabe aclarar que es posible volver a la fase anterior en cualquier momento del desarrollo de la aplicación si es necesario.
  Se necesitará un total de tres estudiantes de ingeniería de sistemas, a los cuales se les pagara en total una suma de $300.000 COP, lo que quiere decir que les corresponde $100.000 COP a cada uno.
+ 
+ # Diagrama UML
+  ![alt text](https://raw.githubusercontent.com/CCaroV/Cronometro/master/UML.png) 
