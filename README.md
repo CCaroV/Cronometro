@@ -45,4 +45,4 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
  
  # Diagrama UML
  
-  ![imagen](https://github.com/CCaroV/Cronometro/blob/master/UML.png) 
+  ![imagen](UML.png) 
