@@ -107,4 +107,7 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
 ![imagen](Imagenes/FlujodeDatosTemporizador.jpg)
 
 
+# Primer Diagrama de Clases
+* ![imagen](Imagenes/Diagrama_de_Clases.png)
+
 
