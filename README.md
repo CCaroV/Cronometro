@@ -66,23 +66,45 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
 | Resetear Memoria | NA | Cronometro en estado pausado | ***1.1*** El cronometro indica Resetear la Memoria ***1.2*** La memoria Deletea la lista de tiempo obtenidos con anterioridad ***1.3*** La memoria retornara la Lista ***2.1*** Si la lista esta vacia, esta no se reseteara ***2.1*** Si el cronometro no esta en estado Pausar, la memora no se reseteará | La memoria Retornara vacia la lista de datos que puede almacenar| 
 | Requerimiento | Actores | Precondiciones | Escenarios | Poscondiciones| 
 | Requerimiento | Actores | Precondiciones | Escenarios | Poscondiciones|
-# Diagramas
+# Diagramas Cronometro
 
 
  ##  Diagrama de Casos de uso: 
   ![imagen](Imagenes/DiagramadeCasosdeUso.jpg)
 
-## Diagrama Actividad Iniciar Cronometro
+# Diagramas Cronometro
+
+## Diagrama Actividad Iniciar
 ![imagen](Imagenes/ActividadIniciarC.jpg)
 
-## Diagrama Actividad Pausar Cronometro
+## Diagrama Actividad Pausar
 ![imagen](Imagenes/ActividadPausarC.jpg)
 
-## Diagrama Actividad Reiniciar Cronometro
+## Diagrama Actividad Reiniciar
 ![imagen](Imagenes/ActividadReiniciar.jpg)
 
 ## Diagrama Actividad Guardar Tiempo
 ![imagen](Imagenes/ActividadGuardar.jpg)
+
+## Diagrama De Flujo de Datos Cronometro
+![imagen](Imagenes/FlujodeDatosCronometro.jpg)
+
+# Diagramas Temporizador
+
+## Diagrama Actividad Iniciar
+![imagen](Imagenes/ActividadIniciarT.jpg)
+
+## Diagrama Actividad Pausar
+![imagen](Imagenes/ActividadPausarT.jpg)
+
+## Diagrama Actividad Reiniciar
+![imagen](Imagenes/ActividadReiniciarT.jpg)
+
+## Diagrama Actividad Setear Tiempo
+![imagen](Imagenes/EstablecerTiempo.jpg)
+
+## Diagrama De Flujo de Datos Temporizador
+![imagen](Imagenes/FlujodeDatosTemporizador.jpg)
 
 
 
