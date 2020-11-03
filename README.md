@@ -110,4 +110,31 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
 # Primer Diagrama de Clases
 * ![imagen](Imagenes/Diagrama_de_Clases.png)
 
+## Algunas Secuencias en el proceso de Datos
+
+### Diagrama De Secuencia de Inicio Cronometro
+![imagen](Imagenes/SecuenciaIniciarC.jpg)
+
+### Diagrama De Secuencia de Pausa Cronometro
+![imagen](Imagenes/SecuenciaPausarC.jpg)
+
+### Diagrama De Secuencia de Reinicio Cronometro
+![imagen](Imagenes/SecuenciaReiniciarC.jpg)
+
+### Diagrama De Secuencia de Guardar Tiempo
+![imagen](Imagenes/SecuenciaGuardar.jpg)
+
+### Diagrama De Secuencia de Inicio Temporizador
+![imagen](Imagenes/SecuenciaIniciarT.jpg)
+
+### Diagrama De Secuencia de Pausar Temporizador
+![imagen](Imagenes/SecuenciaPausarT.jpg)
+
+### Diagrama De Secuencia de Reiniciar Temporizador
+![imagen](Imagenes/SecuenciaReiniciarT.jpg)
+
+### Diagrama De Secuencia de Seteo de Tiempo
+![imagen](Imagenes/SecuenciaSetearTiempo.jpg)
+
+
 
