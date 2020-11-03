@@ -73,7 +73,16 @@ Cabe aclarar que es posible volver a la fase anterior en cualquier momento del d
   ![imagen](Imagenes/DiagramadeCasosdeUso.jpg)
 
 ## Diagrama Actividad Iniciar Cronometro
-![imagen](Imagenes/Actividad1.jpg)
+![imagen](Imagenes/ActividadIniciarC.jpg)
+
+## Diagrama Actividad Pausar Cronometro
+![imagen](Imagenes/ActividadPausarC.jpg)
+
+## Diagrama Actividad Reiniciar Cronometro
+![imagen](Imagenes/ActividadReiniciar.jpg)
+
+## Diagrama Actividad Guardar Tiempo
+![imagen](Imagenes/ActividadGuardar.jpg)
 
 
 
